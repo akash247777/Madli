@@ -67,15 +67,15 @@ const Footer = () => {
               <h4 className="text-lg font-semibold">Stay Connected</h4>
               <div className="space-y-3">
                 <div className="flex items-center space-x-3">
-                  <Phone className="h-4 w-4 text-warm-gold" />
-                  <span className="text-warm-cream/80 text-sm">+91 98765 43210</span>
+                  <Phone className="h-4 w-4 text-black" />
+                  <span className="text-warm-cream/80 text-sm">+91 8618041675</span>
                 </div>
                 <div className="flex items-center space-x-3">
-                  <Mail className="h-4 w-4 text-warm-gold" />
-                  <span className="text-warm-cream/80 text-sm">hello@florafoods.com</span>
+                  <Mail className="h-4 w-4 text-black" />
+                  <span className="text-warm-cream/80 text-sm">akashsg2472gmail.com</span>
                 </div>
                 <div className="flex items-start space-x-3">
-                  <MapPin className="h-4 w-4 text-warm-gold mt-1" />
+                  <MapPin className="h-4 w-4 text-black mt-1" />
                   <span className="text-warm-cream/80 text-sm leading-relaxed">
                     Karnataka, India<br />
                     Delivering Pan India
